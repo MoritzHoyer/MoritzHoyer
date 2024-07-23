@@ -1,6 +1,6 @@
 # Hello there 👋 
 
-## I'm Moritz, a hamburg based graphic designer, art director, and lecturer with special focus on branding, typography and type.
+## I'm Moritz, a hamburg based graphic designer, art director, and lecturer with special focus on branding, typography and packaging design.
 
 **Senior Art Director** at [Tabula Rasa](https://tabula-rasa.studio/)<br>
 **Lecturer** at [Design Factory International](https://design-factory.de/)
