@@ -3,7 +3,7 @@
 **_Senior Art Director_** at [Tabula Rasa](https://tabula-rasa.studio/)<br>
 **_Lecturer_** at [Design Factory International](https://design-factory.de/)
 
-Currently training as a **Web Developer** at neuefische/Spiced-Academy.
+Currently training as a **_Web Developer_** at neuefische/Spiced-Academy.
 
 If you want to get in touch feel free to [contact](contact@moritzhoyer.de) me.
 
