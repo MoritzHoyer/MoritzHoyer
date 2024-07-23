@@ -1,7 +1,7 @@
 # Hi, I'm Moritz, a hamburg based graphic designer, art director, and lecturer with special focus on branding, typography and packaging design.
 
-**_Senior Art Director_** at [Tabula Rasa](https://tabula-rasa.studio/)<br>
-**_Lecturer_** at [Design Factory International](https://design-factory.de/)
+```Senior Art Director``` at [Tabula Rasa](https://tabula-rasa.studio/)<br>
+```Lecturer``` at [Design Factory International](https://design-factory.de/)
 
 Currently training as a **_Web Developer_** at neuefische/Spiced-Academy.
 
