@@ -5,5 +5,5 @@
 
 Currently training as a **_Web Developer_** at neuefische/Spiced-Academy.
 
-If you want to get in touch feel free to [contact](contact@moritzhoyer.de) me.
+If you want to get in touch feel free to contact me via [linkedin](https://www.linkedin.com/in/moritz-hoyer-391911186/) or [mail](contact@moritzhoyer.de).
 
